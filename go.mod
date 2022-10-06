@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/golang-jwt/jwt/v4 v4.4.2
-	github.com/sideshow/apns2 v0.23.0
+	github.com/thucnq/apns2 v1.0.1
 	github.com/stretchr/testify v1.8.0
 	golang.org/x/crypto v0.0.0-20221005025214-4161e89ecf1b
 	golang.org/x/net v0.0.0-20221004154528-8021a29435af
